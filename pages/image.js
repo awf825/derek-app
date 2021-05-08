@@ -20,13 +20,13 @@
 	(https://nextjs.org/docs/basic-features/image-optimization)
 */
 
-import Image from 'next/image';
+// import Image from 'next/image';
 
-const ImageComp = () => {
-	<Image
-		src="/images/profile.jpg"
-		height={144}
-		width={144}
-		alt="Aiden"
-	/>
-}
+// const ImageComp = () => {
+// 	<Image
+// 		src="/images/profile.jpg"
+// 		height={144}
+// 		width={144}
+// 		alt="Aiden"
+// 	/>
+// }
